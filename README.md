@@ -1,2 +1,2 @@
 # NeuroAtlast
-School Project, AI Learns to play and INteract
+School Project, AI Learns to play and Interact
